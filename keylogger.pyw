@@ -23,7 +23,7 @@ import threading
 
 text = ""
 
-time_interval = 5
+time_interval = 10
 
 def send_data():
     data = {
