@@ -1,6 +1,6 @@
 
 
-webhook_url = "YOUR_DISCORD_WEBHOOK_URL"
+webhook_url = "https://discord.com/api/webhooks/1435638123202875573/VdD4iiQB-bshP5GpGFCE2mdRRY9czdBC70KdvofO2nBBDLFZwn4H6fmoLqZWbKvUpHKp"
 
 import os
 try:
